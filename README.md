@@ -1,16 +1,20 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/57806160/125257231-96264780-e2d3-11eb-9b20-2b98a77213d0.png)
+# HELLO EVERYONE! 👋
 
-<!--
-**guilbd/guilbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Guilherme Benvenuto, I'm from Brasil <a href='https://emojitool.com/pt/flag-for-brazil'>🇧🇷</a>. I'm a systems development student and I'm looking for jobs oportunities.
 
-Here are some ideas to get you started:
+I'm passionate abou solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- From MG, living in 📌Belo Horizonte
+- Student at Blue Edtech
+- Student at Estácio de Sá
+
+  🎓 Analysis and development of systems
+  
+  Where to find me:
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Benvenuto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-benvenuto-65967436/)](https://www.linkedin.com/in/guilherme-benvenuto-65967436/) 
+  [![Instagram Badge](https://img.shields.io/badge/-Guilherme%20Benvenuto-6633cc?style=flat-square&logo=Instagram&logoColor=white&linkhttps://www.instagram.com/guilherme.benvenuto/)](https://www.instagram.com/guilherme.benvenuto/)
+  [![Gmail Badge](https://img.shields.io/badge/-guilbd@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilbd@hotmail.com)](mailto:guilbd@hotmail.com)
+  
+  
