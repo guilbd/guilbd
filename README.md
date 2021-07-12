@@ -11,7 +11,7 @@ I'm passionate abou solving problems and learning. Always open to new challenges
 
   🎓 Analysis and development of systems
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilbd&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilbd&layout=compact&theme=highcontrast)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilbd&show_icons=true&theme=jolly) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilbd&layout=compact&theme=jolly)
   
   Where to find me:
   
