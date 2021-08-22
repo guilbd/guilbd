@@ -3,7 +3,7 @@
 
 My name is Guilherme Benvenuto, I'm from Brasil <a href='https://emojitool.com/pt/flag-for-brazil'>🇧🇷</a>. I'm a systems development student and I'm looking for jobs oportunities.
 
-I'm passionate abou solving problems and learning. Always open to new challenges and ready to face changes.
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 - From MG, living in 📌Belo Horizonte
 - Student at Blue Edtech
