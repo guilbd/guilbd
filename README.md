@@ -6,8 +6,8 @@ My name is Guilherme Benvenuto, I'm from Brasil <a href='https://emojitool.com/p
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 - From MG, living in 📌Belo Horizonte
-- Student at Blue Edtech
-- Student at Estácio de Sá
+- Student at ADA - Santander Coders 2023
+- MBA - Business Intelligence
 
   🎓 Analysis and development of systems
   
